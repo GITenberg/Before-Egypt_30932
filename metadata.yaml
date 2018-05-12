@@ -1,0 +1,25 @@
+_repo: Before-Egypt_30932
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jarvis, E. K.
+    gutenberg_agent_id: '32244'
+    url: http://www.gutenberg.org/2009/agents/32244
+description: ''
+gutenberg_issued: '2010-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interplanetary voyages -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Before Egypt
+url: http://www.gutenberg.org/ebooks/30932
